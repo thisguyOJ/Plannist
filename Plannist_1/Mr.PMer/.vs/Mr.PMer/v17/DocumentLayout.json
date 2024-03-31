@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Mr.PMer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|solutionrelative:Mr.PMer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Mr.PMer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|solutionrelative:Mr.PMer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{841AA503-9F22-46BA-B1B8-67A1BE327BDA}|Mr.PMer.vcxproj|solutionrelative:targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "targetver.h",
+              "DocumentMoniker": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\targetver.h",
+              "RelativeDocumentMoniker": "targetver.h",
+              "ToolTip": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\targetver.h",
+              "RelativeToolTip": "targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T01:21:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mr.PMer.h",
+              "DocumentMoniker": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Mr.PMer.h",
+              "RelativeDocumentMoniker": "Mr.PMer.h",
+              "ToolTip": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Mr.PMer.h",
+              "RelativeToolTip": "Mr.PMer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T01:21:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.h",
+              "DocumentMoniker": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-16T01:21:47.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mr.PMer.cpp",
+              "DocumentMoniker": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Mr.PMer.cpp",
+              "RelativeDocumentMoniker": "Mr.PMer.cpp",
+              "ToolTip": "D:\\PROJEKTS\\Plannist_1\\Mr.PMer\\Mr.PMer.cpp",
+              "RelativeToolTip": "Mr.PMer.cpp",
+              "ViewState": "AQIAABQAAADw//////8nwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T01:07:32.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
